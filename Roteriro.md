@@ -18,6 +18,9 @@ Este projeto tem como objetivo realizar uma análise da diversidade e inclusão 
 4. **Análise de Idade:**
    - Calcular a distribuição de idade dos funcionários.
    - Agrupar os funcionários em faixas etárias e calcular a porcentagem em cada grupo.
+   - Vericar se tem uma diferença de idade entre homens e mulheres.
+   - Verificar sem tem gente de senioridade inferios de menor idade - contratação de mais velhos
+   - Verificar sem tem gente de tempo de casa inferios de menor idade - contratação de mais velhos
 5. **Análise de Tempo de Casa:**
    - Analisar o tempo de casa dos funcionários.
    - Agrupar os funcionários em intervalos de tempo de casa e calcular a porcentagem em cada grupo.
