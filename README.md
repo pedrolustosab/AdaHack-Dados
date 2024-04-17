@@ -4,7 +4,7 @@
 
 - [Alan Rigolon](https://github.com/alanrigolon)
 - [Camila Lima](https://github.com/camilamlima)
-- [Carlos Andre ]()
+- [Carlos Andre ](https://github.com/carlosandre77)
 - [Maycon Lima](https://github.com/Maykitu)
 - [Pedro Lustosa](https://github.com/pedrolustosab)
 - [Rafael Vinícius](https://github.com/orafaelvinicius/)
