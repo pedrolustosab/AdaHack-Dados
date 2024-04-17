@@ -8,7 +8,7 @@
 - [Maycon Lima](https://github.com/Maykitu)
 - [Pedro Lustosa](https://github.com/pedrolustosab)
 - [Rafael Vinícius](https://github.com/orafaelvinicius/)
-- [Samara Almeida]()
+- [Samara Almeida](https://github.com/Samara-AS)
 
 ### OBJETIVOS
 
