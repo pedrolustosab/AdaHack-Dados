@@ -1,5 +1,7 @@
 # **AdaHack-Dados** 
 
+# DiversiTech: Promovendo a Diversidade e Inclusão na Corp Solutions
+
 ## Equipe
 
 - [Alan Rigolon](https://github.com/alanrigolon)
